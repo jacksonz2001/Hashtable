@@ -1,5 +1,4 @@
 # Hashtable
-Hashtable Implementation
 
 Utilizes Nodes to store Key,Value pairs
 
